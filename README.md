@@ -5,14 +5,14 @@ Implemented N-queens problem by using hill-climbing search and its variants
 ● Hill-climbing with sideways move
 ● Random-restart hill-climbing with and without sideways move
 
-Program Structure:
+**Program Structure:**
 The code implements a heuristics function to calculate the number of pairs of queens
 that are attacking to each other. Another implemented function returns the possible
 moves that has less number of violations.
 Following is the program structure.
-1. Global Variables -
+*1. Global Variables -*
 The variables named n is used which is the number of queens.
-2. Functions & Procedures -
+*2. Functions & Procedures -*
 calculateHeuristics() : Function to calculate the number of pairs of queens that are
 attacking to each other
 calculateMinBoard(): Function to calculate the possible moves that has less number of
