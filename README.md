@@ -1,8 +1,11 @@
 # N-Queens-Problem-Using-Hill-Climbing-Search
 
 Implemented N-queens problem by using hill-climbing search and its variants 
+
 ● Steepest- ascent hill climbing
+
 ● Hill-climbing with sideways move
+
 ● Random-restart hill-climbing with and without sideways move
 
 **Program Structure:**
